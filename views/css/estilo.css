@@ -1,0 +1,15 @@
+body, .bootstrap .table tbody > tr > td, input[type="text"] , input[type="date"],option, .control-label, label, .btn {
+  text-transform: uppercase;
+}
+.tabla
+{
+  font-size: 16px;
+  text-transform: none;
+}
+input[type="number"] {
+   width:50px;
+}
+.panel-heading{
+  font-size: 24px;
+  font-weight: bold;
+}
